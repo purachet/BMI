@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ค่าดัชนีมวลกาย</string>
+    <string name="Height_text">ส่วนสูง (ซม.)</string>
+    <string name="Weight_text">น้ำหนัก (กก.)</string>
+    <string name="calculate_text">คำนวณ</string>
+</resources>
